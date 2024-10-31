@@ -142,11 +142,14 @@ Average Subscription Duration For All Customers.
 
 
 
+<img width="623" alt="New Average Sub Duration" src="https://github.com/user-attachments/assets/91f4e447-fe8f-4e33-b3a1-c63615812e0f">
 
 
-<img width="652" alt="Average subscription duration subscription" src="https://github.com/user-attachments/assets/f3e83a99-475a-4532-9f03-bd3328ff87b0">
 
-Customer With Subscription Longer Than 12 Months.
+
+
+
+Customer with Subscription Longer Than 12 Months.
 ---
 
 
