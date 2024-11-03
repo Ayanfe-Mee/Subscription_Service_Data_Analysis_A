@@ -58,21 +58,42 @@ In this project, EDA was used to understood key features of the customer subscri
   - Key Findings;
        - East region have a higher concentration of active customers.
        - North, South, and West region cancellation rates are closely aligned, suggesting consistent customer behavior across these locations.
-       -  
+       - Basic plan has the highest retention and also churned rates, it also generated the highest revenue among other plans 
   - Revenue and Trend Analysis;
        - Analyzed total revenue by Subscription type.
        - Analyzed count of customer by subscription type and region to compare across periods to observe seasonality.
-       - Used visuals (bar charts, line charts) to track subscription revenue, highlighting trends in cancellations and renewal.  
-        
+       - Used visuals (bar charts, line charts) to track subscription revenue, highlighting trends in cancellations and renewal.
 
+   - Visualizations:
+        - Created interactive power BI visuals including line charts for trends, bar charts for revenue comparisons, and cards for high-level metrics.
+        - Used slicers and filters to allow exploration of data to view specific time periods and customer segments.
+        
+### Key Insights.
+---
+  - This analysis revealed significant patterns in customer subscription behaviors, preferred subscription types, and regions with high churn.
+  - Active subscriptions contributed a major portion of the revenue while specific types showed higher cancellation trends, suggesting areas for potential improvement.
 
 
 
 ### Tool Used.
 ---
 - Microsoft Excel:
-- Structured Query Language (SQL): For data query and EXtraction.
-- Power BI: For interactive dashboard and visualization.
+      - Excel was used for initial data exploration and data cleaning tasks. Basic data manipulations; including removing duplicates, and calculated subscription duration was performed.
+      - Created pivot tables to gain preliminary insights such as identifying popular subscription type, calculated basic metrics like average subscription duration, and analyzing trends in customers cancellations.
+      - Also used Excel to validate calculations and compare results from SQL and Power BI, ensuring consistency.
+      - Used Excel to import data into SQL database (Converted file to CSV before importing).
+  
+- Structured Query Language (SQL):
+    - It was useful for retrieval and querying; Queried data to retrieve total number of customers from each region, and created average subscription duration and total revenue by each subscription type.
+   - Used to find customers who canceled their subscription within 6 months, and also customers with subscriptions longer than 12 months.
+   - Used to find top 3 regions by subscription cancellations, and total number of active and canceled subscriptions.
+      
+- Power BI: For interactive dashboard and visualization:
+   - Power BI was used for data visualization and dashboard creation, offering an interactive view of key metrics including revenue from active subscriptions and canceled subscription, average subscription duration, canceled subscription rates (Churned) and active subscription rates (Retention).
+   - Implemented DAX (Data Analysis Expressions) to create calculated fields and measures such as rates of canceled and active subscriptions, allowing dynamics insights.
+   - Created date table to filter and slice data by day, month, quarter, and year. This feature allowed for dynamic exploration of trends suchs as identifying peak cancellation months and track growth in subscription renewals.
+   - Created conditional column to indicate active and canceled subscription to visualize more insights.
+   - Created visuals cds
 
 ### Key Insights.
 ---
