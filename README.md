@@ -42,11 +42,11 @@ In this project, EDA was used to understood key features of the customer subscri
 ### Data Analysis.
 ---
 - Data Cleaning and Preparation: Prepare the data for analysis by cleaning and transforming fields to ensure accuracy and consistency.
-      1. Checked for missing values and remove duplicates with the same values as another in all fields.
-      2. Converted date fields (subscriptionStart, and subscriptionEnd) to date format.
-      3. Created a conditional column, subscription status (Canceled) to calculate active and canceled subscription.
-      4. Calclated subscriptionDuration (SubscriptionStart, SubscriptionEnd) to assess the lenght of time each customer stayed subscribed.
-      5. Generated summary statistics such as total revenue and average subscription duration, to get a high-level view of the data.
+        - Checked for missing values and remove duplicates with the same values as another in all fields.
+        - Converted date fields (subscriptionStart, and subscriptionEnd) to date format.
+        - Created a conditional column, subscription status (Canceled) to calculate active and canceled subscription.
+        - Calclated subscriptionDuration (SubscriptionStart, SubscriptionEnd) to assess the lenght of time each customer stayed subscribed.
+        - Generated summary statistics such as total revenue and average subscription duration, to get a high-level view of the data.
 
 - Calculated key Metrics;
         - Computed average subscription duration using power BI DAX functions to assess how long customers typically remain subscribed.
@@ -93,13 +93,8 @@ In this project, EDA was used to understood key features of the customer subscri
    - Implemented DAX (Data Analysis Expressions) to create calculated fields and measures such as rates of canceled and active subscriptions, allowing dynamics insights.
    - Created date table to filter and slice data by day, month, quarter, and year. This feature allowed for dynamic exploration of trends suchs as identifying peak cancellation months and track growth in subscription renewals.
    - Created conditional column to indicate active and canceled subscription to visualize more insights.
-   - Created visuals cds
+   - Created visuals (Bar charts, Line charts, Pie charts and cards) to track trends over time and compare metrics across customer segments, enabling deeper analysis of subscription behavior. 
 
-### Key Insights.
----
-- Identification of high-cancellation regions and subscription types.
-- Monthly trends visualization for active and canceled subscriptions, revealing peak and off-peak seasons.
-- Customer segmentation that highlight
 
 ### Microsoft Excel 
 
@@ -167,6 +162,7 @@ Customers that Canceled Subscription Within 6 Months.
 
 
 
+<img width="756" alt="SQL Subscription canceled within 6 monhs newest" src="https://github.com/user-attachments/assets/c31d6414-8070-43e1-9b50-65f12a19b8a1">
 
 
 Average Subscription Duration For All Customers.
@@ -214,6 +210,60 @@ Total Number of Active and Canceled Subscriptions.
 
 
 <img width="628" alt="Total active and canceled sub sql" src="https://github.com/user-attachments/assets/4c123a43-84bf-4f94-b757-9c0d1748c028">
+
+
+### Dashboard Overview.
+---
+
+
+
+
+
+<img width="572" alt="Newest Customer Subscription Dashboard Overview" src="https://github.com/user-attachments/assets/2ab3f449-e208-441f-b5f4-9d4e256475bf">
+
+
+
+Active and Canceled Subscriptions by Region and Subscription Type.
+---
+
+
+
+
+
+
+<img width="340" alt="Active and Canceled Sub  by Region and Sub  Type" src="https://github.com/user-attachments/assets/86998375-ca03-4870-a915-b479b0fe551a">
+
+
+
+Monthly Active and Canceled Subscription.
+---
+
+
+
+
+
+<img width="326" alt="Monthly Active and Canceled Sub" src="https://github.com/user-attachments/assets/22fcb947-6f55-4e82-8a96-ab569b663845">
+
+
+
+Regional Canceled Subscriptions Revenue Over Time.
+---
+
+
+
+
+
+<img width="492" alt="Regional Canceled Sub  Revenue Over Time" src="https://github.com/user-attachments/assets/c601d80d-c6c1-4f2c-8862-adf0b35faa49">
+
+
+Customer that are Active by Subscription Type and Region.
+---
+
+
+
+
+
+<img width="198" alt="Customer  Active Sub Type and Region" src="https://github.com/user-attachments/assets/a426a93b-06b0-4a38-b7e3-3299f1b71bec">
 
 
 
