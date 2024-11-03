@@ -230,10 +230,24 @@ Active and Canceled Subscriptions by Region and Subscription Type.
 
 
 
-
 <img width="340" alt="Active and Canceled Sub  by Region and Sub  Type" src="https://github.com/user-attachments/assets/86998375-ca03-4870-a915-b479b0fe551a">
 
 
+Insights.
+---
+- Basic Plan:
+         - The Basic plan likely appeals to a larger customer base due to its lower price point making it an attractive option for budget-conscious users.
+         - Basic plan may cover the essential features that meet the primary needs of most users which explains why it not only attracts more customers but also drives higher revenue collectively
+         - Consider upselling Basic plan users to both Premuim and Standard by offering periodic discounts or adding enticing features to both Premuim and Standard plans may attract subscribers.
+         - Regular evaluation of Basic plan to ensure it remain relevant and competitive.
+         - Strenghten loyalty among Basic plan users by providing exclusive content or occasional perks could drive further retention.
+
+ - East Region:
+         - East region may have higher concentration of the demographic groups E.g students, young professional or single individuals.
+         - It could be as a result of part of the service offers content that related to East region or features that are relevant to the region which may have played a significant factor in its dominance in count of customers and revenue.
+
+     
+     
 
 Monthly Active and Canceled Subscription.
 ---
@@ -243,6 +257,21 @@ Monthly Active and Canceled Subscription.
 
 
 <img width="326" alt="Monthly Active and Canceled Sub" src="https://github.com/user-attachments/assets/22fcb947-6f55-4e82-8a96-ab569b663845">
+
+
+
+Insights.
+---
+     - Active Monthly Subscription: July and March have the highest count of customers with a slightly difference, this could be as a result of seasonal promotions or special offers that attract new subscribers. E.g summer promotions in July and end-of-quarter incentives in March.
+         - Proactive renewal offers in these months could improve retention and make renewals more predictable
+         - Encouraging proactive engagement such as sending reminders or offering renewal discounts can sustain these peaks.
+
+     - Canceled Monthly Subscription: The cancellation trend line indicated that April has the highest canceled subscription showing that it is the weak period of customer dissatisfaction or increased competition. This might be as a result of price, low quality or irrelevant content.
+     - Improvement on quality and also, introducing a discount program for long-term subscribers which could reduce price-related cancellations.
+     - Introducing flexible payment options such as monthly, quarterly, and yearly payment options could improve retention price-sensitive customers. 
+     - Use of user feedback to conduct monthly or quarterly surveys to understand quality concerns directly from users.
+     Regular updates to fix bugs and improve usability.
+     - Introduce content recommendations base on user interests reducing irrelevant content-related cancellations.
 
 
 
