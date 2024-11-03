@@ -44,15 +44,26 @@ In this project, EDA was used to understood key features of the customer subscri
 - Data Cleaning and Preparation: Prepare the data for analysis by cleaning and transforming fields to ensure accuracy and consistency.
       1. Checked for missing values and remove duplicates with the same values as another in all fields.
       2. Converted date fields (subscriptionStart, and subscriptionEnd) to date format.
-      3. Created a conditional column, subscription status to calculate active and canceled subscription.
-      4. Calclated subscriptionDuration to assess the lenght of time each customer stayed subscribed.
-  Now, data was cleaned and ready for further analysis, with calculated fields added for segmentation and trend tracking.
+      3. Created a conditional column, subscription status (Canceled) to calculate active and canceled subscription.
+      4. Calclated subscriptionDuration (SubscriptionStart, SubscriptionEnd) to assess the lenght of time each customer stayed subscribed.
+      5. Generated summary statistics such as total revenue and average subscription duration, to get a high-level view of the data.
+
+- Calculated key Metrics;
+        - Computed average subscription duration using power BI DAX functions to assess how long customers typically remain subscribed.
+        - Calculated churn rate and renewal rate to understand customer retention to understand customer retention and identify trends in cancellations.
 
   - Customer Segmentation: Classified customers into meaningful segments to understand the distribution and behavior across regions and subscription types.
        1. grouped customers by region and subscriptionType.
        2. Used visualizatioms to display the distribution of customer in each segment.
   - Key Findings;
-       - Cert
+       - East region have a higher concentration of active customers.
+       - North, South, and West region cancellation rates are closely aligned, suggesting consistent customer behavior across these locations.
+       -  
+  - Revenue and Trend Analysis;
+       - Analyzed total revenue by Subscription type.
+       - Analyzed count of customer by subscription type and region to compare across periods to observe seasonality.
+       - Used visuals (bar charts, line charts) to track subscription revenue, highlighting trends in cancellations and renewal.  
+        
 
 
 
