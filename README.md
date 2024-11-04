@@ -75,6 +75,7 @@ In this project, EDA was used to understood key features of the customer subscri
 
 
 
+
 ### Tool Used.
 ---
 - Microsoft Excel:
@@ -218,8 +219,11 @@ Total Number of Active and Canceled Subscriptions.
 
 
 
+<img width="605" alt="Subscription Dashboard Overview NEWEST" src="https://github.com/user-attachments/assets/ee859846-9665-4917-a1ce-456c7a2f7868">
 
-<img width="572" alt="Newest Customer Subscription Dashboard Overview" src="https://github.com/user-attachments/assets/2ab3f449-e208-441f-b5f4-9d4e256475bf">
+
+
+
 
 
 
@@ -265,15 +269,15 @@ Monthly Active and Canceled Subscription.
 
 Insights.
 ---
-- Active Monthly Subscription: July and March have the highest count of customers with a slightly difference, this could be as a result of seasonal promotions or special offers that attract new subscribers. E.g summer promotions in July and end-of-quarter incentives in March.
-   - Proactive renewal offers in these months could improve retention and make renewals more predictable
+- Active Monthly Subscription: July and March have the highest count of customers with a slightly differences, this could be as a result of seasonal promotions or special offers that attract new subscribers. E.g summer promotions in July and end-of-quarter incentives in March.
+   - Proactive renewal offers in these months could improve retention and make renewals more predictable.
    - Encouraging proactive engagement such as sending reminders or offering renewal discounts can sustain these peaks.
 
 - Canceled Monthly Subscription: The cancellation trend line indicated that April has the highest canceled subscription showing that it is the weak period of customer dissatisfaction or increased competition. This might be as a result of price, low quality or irrelevant content.
    - Improvement on quality and also, introducing a discount program for long-term subscribers which could reduce price-related cancellations.
    - Introducing flexible payment options such as monthly, quarterly, and yearly payment options could improve retention price-sensitive customers. 
    - Use of user feedback to conduct monthly or quarterly surveys to understand quality concerns directly from users.
-     Regular updates to fix bugs and improve usability.
+   - Regular updates to fix bugs and improve usability.
    - Introduce content recommendations base on user interests reducing irrelevant content-related cancellations.
 
 
@@ -287,11 +291,20 @@ Regional Canceled Subscriptions Revenue Over Time.
 
 <img width="492" alt="Regional Canceled Sub  Revenue Over Time" src="https://github.com/user-attachments/assets/c601d80d-c6c1-4f2c-8862-adf0b35faa49">
 
+Insights
+---
 According to this trend, August, 2023 has the highest cancellation revenue in West region which could be as a result of factors like holidays, end-of-summer budgeting or shifts in customer priorities; and it could be all of these stated. Economic changes or regional economic factors can also impact customers'ability or willingness to maintain subscriptions.
 In this trend, we have high and low churned revenue which shows that there are factors affecting the periods either negatively or positively. What are the factors;
-    - Pricing Adjustments or Promotion End Dates: If a promotion or discount ended in any of these periods, some customers may have canceled after their rates returned to normal especially if the standard pricing exceeded their budget.
-    - Increased Competition: If a new competitor launched or intensified marketing in any of these regions and periods, customers may have opted for alternative options leading to higher cancellations.
-    - Customer Feedback and Dissatisfaction: If in any of these periods, there was a spike in complaints or dissatifaction, this could have led to higher cancellation rates resulting to higher churned revenue.
+- Pricing Adjustments or Promotion End Dates: If a promotion or discount ended in any of these periods, some customers may have canceled after their rates returned to normal especially if the standard pricing exceeded their budget.
+- Increased Competition: If a new competitor launched or intensified marketing in any of these regions and periods, customers may have opted for alternative options leading to higher cancellations.
+- Customer Feedback and Dissatisfaction: If in any of these periods, there was a spike in complaints or dissatifaction, this could have led to higher cancellation rates resulting to higher churned revenue.
+
+Actionable Insights.
+---
+- To combat seasonal cancellations, consider offering temporary discounts or pause options during historically high-cancellation periods to retain more customers.
+- Track regional economic indicator and proactively engage customers in regions experiencing financial strain by offering flexible payment plans or short-term discounts.
+- Implement a gradual increase strategy for returning to standard rates after promotions or offer alternative discounts to retain cost-sensitive customers.
+- Consider launching counter-promotions or emphasizing unique features to retain subscribers during competitive launches in key regions.
     
 
 
@@ -302,17 +315,21 @@ In this trend, we have high and low churned revenue which shows that there are f
 
 
 
-Customers that are Active by Subscription Type and Region.
+Subscription Type Trend Over Time.
 ---
 
 
 
-
-
-<img width="198" alt="Customer  Active Sub Type and Region" src="https://github.com/user-attachments/assets/a426a93b-06b0-4a38-b7e3-3299f1b71bec">
-
+<img width="435" alt="Active Subscription Trends over time newest" src="https://github.com/user-attachments/assets/cf0a4b78-54ae-4d1b-95ec-1468afcb7112">
 
 
 
 
+Insights.
+---
+From this visuals we can see how Basic plan dominated from January 2022 to July 2023 which is indicating that most preferred and popular plan is Basic. Factors that may have influenced this are as follows:
 
+- Seasonal Promotions and Discounts: Promotions during the holiday seasons including discounts or a speacial deal for Basic plan may have attracted more subscribers looking for affordable options to Basic plan. E.g Summer promotional campaigns targeted at summer leisure activities may have encouraged customers to opt for the Basic plan, which may have influenced the high-rise in July 2022. 
+- Increased Budget Consciousness: Given the rising cost of living, customers may have prioritized essential spending leading to a preference for the more economical Basic plan.
+- End of the Year Decision-Making: As the year comes to a close, businesses and individuals often readjust their budgets and subscriptions. Customers may have chosen to switch to a Basic plan to save money heading into the new year which may have greatly influenced the high-rise in November 2022.
+- Targeted seasonal marketing efforts emphasizing the affordability and value of the Basic plan may have successfully attracted new customers   
