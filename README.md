@@ -239,7 +239,9 @@ Active and Canceled Subscriptions by Region and Subscription Type.
 
 Insights.
 ---
-- Basic Plan:
+Active.
+---
+- Basic Plan: According to the visuals, Basic dominated both East region, the highest-performing region, and North region, the lowest-performing Region which made Basic the most popular plan and despite being the lowest price, it generated the highest revenue.
     - The Basic plan likely appeals to a larger customer base due to its lower price point making it an attractive option for budget-conscious users.
     - Basic plan may cover the essential features that meet the primary needs of most users which explains why it not only attracts more customers but also drives higher revenue collectively.
     - Consider upselling Basic plan users to both Premuim and Standard by offering periodic discounts or adding enticing features to both Premuim and Standard plans may attract subscribers.
@@ -252,8 +254,21 @@ Insights.
     - Expanding successful localized content to other regions.
     - Conducting customer feedback surveys in this region to better understand the appeal of the service.
     - Consider region-specific content or promotions that cater to unique preferences.
-
-     
+      
+Canceled.
+---
+ As seen on the visuals three regions (North, South, and West) have the same customer count with the plans (Basic, Premium, Standard) and also same revenue. The cancellation counts across all regions and plans are relatively high and close, indicating a potential issue with customer satisfaction or the perceived value of the subscriptions. 
+ - Poor Customer Service Experience: Customers expect reliable and high quality service and will leave if these expectations are not met.
+ - User Experience Issues: Complicated user interfaces, difficulty in navigating the service or issues with account management can frustrate users and lead them to cancel.
+ - Competitor Offerings: If competitors offer better features, pricing or services, customers maybe tempted to switch. A strong competitive landscape can lead to higher cancellation rates if offerings does not keep pace.
+ 
+ Actionable Insights.
+ ---
+ - Implementation of post-cancellation surveys to gather feedback from customers who cancel their subscriptions specifically ask questions about their reasons for leaving, and use this feedback to inform improvements and adjustments to offerings.
+ - Improvement on customer support to proactively address issues that may lead to cancellations. E.g Offer live chat, dedicated account managers or personalized check-ins to help customers resolve problems before they decide to cancel.
+ - Introduction of loyalty programs that reward customers for long-term subscriptions. E.g Offer points for renewals or incentives for referring new customers. This can enhance perceived value and encourage retention.
+ - Regular evaluation and enhancement of the content and features available in the Basic, Premium, Standard plans based on customer feedback. Ensure that offerings remain competitive and relevant to customer needs.
+ - Keep an eye on competitors' offerings and promotions. If they introduce features or pricing structures that attract your subscribers consider adjusting plans or marketing strategies to remain competitive.
      
 
 Monthly Active and Canceled Subscription.
@@ -328,8 +343,31 @@ Subscription Type Trend Over Time.
 Insights.
 ---
 From this visuals we can see how Basic plan dominated from January 2022 to July 2023 which is indicating that most preferred and popular plan is Basic. Factors that may have influenced this are as follows:
-
 - Seasonal Promotions and Discounts: Promotions during the holiday seasons including discounts or a speacial deal for Basic plan may have attracted more subscribers looking for affordable options to Basic plan. E.g Summer promotional campaigns targeted at summer leisure activities may have encouraged customers to opt for the Basic plan, which may have influenced the high-rise in July 2022. 
 - Increased Budget Consciousness: Given the rising cost of living, customers may have prioritized essential spending leading to a preference for the more economical Basic plan.
-- End of the Year Decision-Making: As the year comes to a close, businesses and individuals often readjust their budgets and subscriptions. Customers may have chosen to switch to a Basic plan to save money heading into the new year which may have greatly influenced the high-rise in November 2022.
-- Targeted seasonal marketing efforts emphasizing the affordability and value of the Basic plan may have successfully attracted new customers   
+- End of the Year Decision-Making: As the year comes to a close, businesses and individuals often readjust their budgets and subscriptions. Customers may have chosen to switch to a Basic plan to save money heading into the new year which may have greatly influenced the high-rise on Basic plan in November 2022.
+- Targeted seasonal marketing efforts emphasizing the affordability and value of the Basic plan may have successfully attracted new customers.
+
+Actionable Insights
+---
+- Enhancement of Basic plan by adding seasonal content or features relevant to seasonal special offerings.
+- Emphasize the Basic plan's affordability and create flexible payment options or loyalty rewards for existing customers.
+- Encourage satisfied customers to share their experiences through testimonials or online reviews.
+- Implement a referral program that rewards customers for referring others to the Basic plan, leveraging their positive feedback to attract new users. 
+
+This visual above shows that Premium and Standard are not performing so well. What to do to improve customer appeal and enhance overall performance:
+- Feedbacks from current and potential customers to understand their needs and reasons for not subscribing to the Premium or Standard plan and use these gathered feedbacks to improve on marketig efforts.
+- Consider adjusting prices compared to competitors or implementing discounts to make these plans more attractive.
+- Clearly communicate the unique benefits of the Premium and Standard plans in all marketing materials. State what differentiates these plans from the Basic plan and the provide value to customers.
+- Consider offering limited-time trials for the Premium and Standard plans to allow potential customers to experience the benefits firsthand. Using this opportunity to showcase the value of these plans without financial commitment.
+- Collect testimonials from satisfied customers using the Premium and Standard plans. Highlight success stories that demonstrates the value of these plans to encourage others to subscribe.
+
+Conclusion.
+---
+In conclusion, improving subscription performance requires a multifaceted approach that includes understanding customer needs, enhancing value propositions, optimizing pricing, and continously monitoring performance. By leveraging actionable insights and adapting strategies based on feedback and market conditions, the service can enhance their subscription offerings, attract new customers, and drive long-term growth.
+
+
+
+
+
+   
