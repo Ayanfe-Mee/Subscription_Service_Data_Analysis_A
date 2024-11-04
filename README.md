@@ -45,12 +45,12 @@ In this project, EDA was used to understood key features of the customer subscri
         - Checked for missing values and remove duplicates with the same values as another in all fields.
         - Converted date fields (subscriptionStart, and subscriptionEnd) to date format.
         - Created a conditional column, subscription status (Canceled) to calculate active and canceled subscription.
-        - Calclated subscriptionDuration (SubscriptionStart, SubscriptionEnd) to assess the lenght of time each customer stayed subscribed.
+        - Calculated subscriptionDuration (SubscriptionStart, SubscriptionEnd) to assess the lenght of time each customer stayed subscribed.
         - Generated summary statistics such as total revenue and average subscription duration, to get a high-level view of the data.
 
 - Calculated key Metrics;
         - Computed average subscription duration using power BI DAX functions to assess how long customers typically remain subscribed.
-        - Calculated churn rate and renewal rate to understand customer retention to understand customer retention and identify trends in cancellations.
+        - Calculated churn rate and renewal rate to understand customer retention and identify trends in cancellations.
 
   - Customer Segmentation: Classified customers into meaningful segments to understand the distribution and behavior across regions and subscription types.
        1. grouped customers by region and subscriptionType.
@@ -76,7 +76,7 @@ In this project, EDA was used to understood key features of the customer subscri
 
 
 
-### Tool Used.
+### Tools Used.
 ---
 - Microsoft Excel:
       - Excel was used for initial data exploration and data cleaning tasks. Basic data manipulations; including removing duplicates, and calculated subscription duration was performed.
@@ -85,7 +85,7 @@ In this project, EDA was used to understood key features of the customer subscri
       - Used Excel to import data into SQL database (Converted file to CSV before importing).
   
 - Structured Query Language (SQL):
-    - It was useful for retrieval and querying; Queried data to retrieve total number of customers from each region, and created average subscription duration and total revenue by each subscription type.
+    - It was used for retrieval and querying; Queried data to retrieve total number of customers from each region, and created average subscription duration and total revenue by each subscription type.
    - Used to find customers who canceled their subscription within 6 months, and also customers with subscriptions longer than 12 months.
    - Used to find top 3 regions by subscription cancellations, and total number of active and canceled subscriptions.
       
@@ -94,7 +94,7 @@ In this project, EDA was used to understood key features of the customer subscri
    - Implemented DAX (Data Analysis Expressions) to create calculated fields and measures such as rates of canceled and active subscriptions, allowing dynamics insights.
    - Created date table to filter and slice data by day, month, quarter, and year. This feature allowed for dynamic exploration of trends suchs as identifying peak cancellation months and track growth in subscription renewals.
    - Created conditional column to indicate active and canceled subscription to visualize more insights.
-   - Created visuals (Bar charts, Line charts, Pie charts and cards) to track trends over time and compare metrics across customer segments, enabling deeper analysis of subscription behavior. 
+   - Created visuals (Bar charts, Line charts, and cards) to track trends over time and compare metrics across customer segments, enabling deeper analysis of subscription behavior. 
 
 
 ### Microsoft Excel 
