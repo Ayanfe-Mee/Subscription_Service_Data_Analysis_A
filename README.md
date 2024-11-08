@@ -3,6 +3,36 @@
 ### Project Title: Subscription Service Customer Segments.
 ---
 
+Table Outline
+---
+[Project Overview](#project-overview)
+
+[Key Objectives](#key-objectives)
+
+[Dataset](#dataset)
+
+[Exploratory Data Analysis](#exploratory-data-analysis)
+
+[Data Analysis](#data-analysis)
+
+[Key Insights](#key-insights)
+
+[Tools Used](#tools-used)
+
+[Microsoft Excel](#microsoft-excel)
+
+[SQL Queries](#sql-queries)
+
+[PowerBI Dashboard Overview](#powerbi-dashboard-overview)
+
+[Conclusion](#conclusion)
+
+
+
+
+
+
+
 ### Project Overview.
 ---
 This project aims to analyze customer behaviour for a subscription-based service, focusing on identifying customer segments, tracking subscription trends, and understanding cancellation patterns. By gaining insights into these areas, the analysis helps to uncover patterns that could inform strategies to improve customer retention and tailor marketing efforts. 
@@ -27,7 +57,7 @@ The dataset used includes customer data with the following fields:
   - Canceled: This to know which customer canceled his or her subscription.
   - Revenue: This the the total amount of money generated.
 
-### Exploratory Data Analysis (EDA).
+### Exploratory Data Analysis.
 ---
 In this project, EDA was used to understood key features of the customer subscription data. The analysis covers distribution of customers segments, patterns in cancellations, and subscription trends over time. Key statistics and visualizations help identify patterns, providing insights into customer behavior and engagement. This helps inform the segmentation approach by highlighting factors associated with subscription retention and churn.
 
@@ -213,7 +243,7 @@ Total Number of Active and Canceled Subscriptions.
 <img width="628" alt="Total active and canceled sub sql" src="https://github.com/user-attachments/assets/4c123a43-84bf-4f94-b757-9c0d1748c028">
 
 
-### Dashboard Overview.
+### PowerBI Dashboard Overview.
 ---
 
 
@@ -362,7 +392,7 @@ This visual above shows that Premium and Standard are not performing so well. Wh
 - Consider offering limited-time trials for the Premium and Standard plans to allow potential customers to experience the benefits firsthand. Using this opportunity to showcase the value of these plans without financial commitment.
 - Collect testimonials from satisfied customers using the Premium and Standard plans. Highlight success stories that demonstrates the value of these plans to encourage others to subscribe.
 
-Conclusion.
+### Conclusion.
 ---
 In conclusion, improving subscription performance requires a multifaceted approach that includes understanding customer needs, enhancing value propositions, optimizing pricing, and continously monitoring performance. By leveraging actionable insights and adapting strategies based on feedback and market conditions, the service can enhance their subscription offerings, attract new customers, and drive long-term growth.
 
